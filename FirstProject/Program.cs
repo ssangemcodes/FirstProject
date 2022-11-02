@@ -1,4 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using System.Collections.ObjectModel;
+
 Console.WriteLine("Enter your name please.");
 
 string nameMessage = "Enter your name please."; //Give me a small space on memory to store a string variable
@@ -11,3 +13,10 @@ Console.WriteLine("Welcome to programming " + name); //appending welcome message
 string welcomeMessage = "Welcome to programming "; //declare and assign welcome message
 string appendedOutput = welcomeMessage + name; //concatename welcome message and users name
 Console.WriteLine(appendedOutput); //displaying on the screen
+
+var dt = DateTime.Now;
+ReadOnlyCollection<TimeZoneInfo> timeZones = TimeZoneInfo.GetSystemTimeZones();
+foreach (TimeZoneInfo timeZone in timeZones)
+{
+    var tz = timeZone.DisplayName;
+}
