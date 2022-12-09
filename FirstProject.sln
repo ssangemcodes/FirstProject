@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhileLoopPrime", "WhileLoop
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strings", "Strings\Strings.csproj", "{FFB87C8F-AED6-4D7D-A0B7-3E5084C772ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Functions", "Functions\Functions.csproj", "{D75648B8-2DC7-406B-9A9B-BDA83DB44C45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPS", "OOPS\OOPS.csproj", "{D60F0C25-2B13-4586-8DE2-3533D225750C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{FFB87C8F-AED6-4D7D-A0B7-3E5084C772ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FFB87C8F-AED6-4D7D-A0B7-3E5084C772ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FFB87C8F-AED6-4D7D-A0B7-3E5084C772ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D75648B8-2DC7-406B-9A9B-BDA83DB44C45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D75648B8-2DC7-406B-9A9B-BDA83DB44C45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D75648B8-2DC7-406B-9A9B-BDA83DB44C45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D75648B8-2DC7-406B-9A9B-BDA83DB44C45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D60F0C25-2B13-4586-8DE2-3533D225750C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D60F0C25-2B13-4586-8DE2-3533D225750C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D60F0C25-2B13-4586-8DE2-3533D225750C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D60F0C25-2B13-4586-8DE2-3533D225750C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
