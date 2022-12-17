@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPS", "OOPS\OOPS.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPSExtended", "OOPSExtended\OOPSExtended.csproj", "{91622256-9818-4693-B0B6-EF4C48CB19A8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandling", "ExceptionHandling\ExceptionHandling.csproj", "{F8FE05D7-C5CC-48D1-9F91-46B37471984E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysCollections", "ArraysCollections\ArraysCollections.csproj", "{7E4D4150-B927-4AD7-854F-5959F273EDCC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{91622256-9818-4693-B0B6-EF4C48CB19A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91622256-9818-4693-B0B6-EF4C48CB19A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91622256-9818-4693-B0B6-EF4C48CB19A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8FE05D7-C5CC-48D1-9F91-46B37471984E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8FE05D7-C5CC-48D1-9F91-46B37471984E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8FE05D7-C5CC-48D1-9F91-46B37471984E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8FE05D7-C5CC-48D1-9F91-46B37471984E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E4D4150-B927-4AD7-854F-5959F273EDCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E4D4150-B927-4AD7-854F-5959F273EDCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E4D4150-B927-4AD7-854F-5959F273EDCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E4D4150-B927-4AD7-854F-5959F273EDCC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
